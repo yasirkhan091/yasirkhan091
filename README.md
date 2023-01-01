@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @yasirkhan091
 - 👀 I’m interested in exploring the world of development and programming.
-- 🌱 I’m currently learning DSA and Front End Web Development(HTML CSS JavaScript) and am eager to make/contribute in project as soon as possible .
+- 🌱 I’m currently learning Back End Development with NodeJs and Mongo DB .
 - 💞️ I’m looking to collaborate on Front End Web Development Projects.
 - 📫 How to reach me Linkedin- https://www.linkedin.com/in/yasir-khan-b807ba237
 
