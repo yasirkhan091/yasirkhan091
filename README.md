@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @yasirkhan091
 - 👀 I’m interested in exploring the world of development and programming.
-- 🌱 I’m currently learning MERN stack so that I can easy to use web applications.
+- 🌱 I’m am a MERN stack who can make easy to use web applications.
 - 💞️ I’m looking to collaborate on Full Stack Web Development Projects.
 - 📫 How to reach me Linkedin- https://www.linkedin.com/in/yasir-khan-b807ba237
 
